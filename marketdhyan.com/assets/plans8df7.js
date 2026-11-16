@@ -1,1 +1,0 @@
-window.MD_PLANS={"inner-circle-nov-dec-2026": {"name": "marketdhyan \u2013 Inner Circle", "batch": "6 November \u2013 21 December 2026", "price": 11000, "open": true}};window.MD_SITE={"whatsapp": "", "helpline": "", "brand": "marketdhyan", "email": "info@marketdhyan.com", "payments_live": false, "turnstile": ""};
